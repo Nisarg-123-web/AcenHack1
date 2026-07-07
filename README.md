@@ -410,24 +410,7 @@ Dashboard Analytics
 
 ---
 
-# 👨‍💻 Developed By
 
-**Nisarg Shah**
-
-B.Tech Information Technology
-
-Dwarkadas J Sanghvi College of Engineering
-
-Mumbai, India
 
 ---
 
-# 📜 License
-
-This project is developed for educational and demonstration purposes.
-
----
-
-# ⭐ Thank You
-
-If you found this project helpful, consider giving it a ⭐ on GitHub.
